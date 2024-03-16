@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+}
+
+h1 img{
+    width: 60%;
+}
+
+.wrap{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wrap img{
+    width: 100%;
+}
