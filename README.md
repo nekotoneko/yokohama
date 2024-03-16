@@ -1,0 +1,2 @@
+# yokohama
+smartphone only
